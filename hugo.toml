@@ -1,0 +1,39 @@
+baseURL = "/"
+languageCode = "es"
+title = "Espacio de Concoordia"
+theme = "peh"
+paginate = 10
+[params]
+description = "Historias positivas, buenas noticias y gestos que nos reconcilian con la sociedad."
+
+
+[menu]
+  [[menu.main]]
+    identifier = "historias"
+    name = "Historias"
+    url = "/historias/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "anecdotas"
+    name = "Anécdotas"
+    url = "/anecdotas/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "solidaridad"
+    name = "Solidaridad"
+    url = "/solidaridad/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "quienes-somos"
+    name = "Quiénes somos"
+    url = "/quienes-somos/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "contacto"
+    name = "Contacto"
+    url = "/contacto/"
+    weight = 5
