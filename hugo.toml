@@ -1,11 +1,13 @@
-baseURL = "/"
+baseURL = "https://espaciodeconcordia.netlify.app/"
 languageCode = "es"
-title = "Espacio de Concoordia"
+title = "Espacio de Concordia"
 theme = "peh"
-paginate = 10
-[params]
-description = "Historias positivas, buenas noticias y gestos que nos reconcilian con la sociedad."
 
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Historias positivas, buenas noticias y gestos que nos reconcilian con la sociedad."
 
 [menu]
   [[menu.main]]
