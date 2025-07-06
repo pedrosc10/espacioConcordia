@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solidaridads on Espacio de Concordia</title>
+    <link>http://localhost:1313/solidaridad/</link>
+    <description>Recent content in Solidaridads on Espacio de Concordia</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/solidaridad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Campaña de recogida de ropa para personas sin hogar</title>
+      <link>http://localhost:1313/solidaridad/campana-de-ropa/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solidaridad/campana-de-ropa/</guid>
+      <description>Un grupo de jóvenes organiza una recogida de ropa y la reparte entre quienes más lo necesitan.</description>
+    </item>
+    <item>
+      <title>Apoyo escolar gratuito para niños en verano</title>
+      <link>http://localhost:1313/solidaridad/apoyo-escolar/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solidaridad/apoyo-escolar/</guid>
+      <description>Voluntarios dedican sus tardes a ayudar a niños con sus tareas en una biblioteca pública.</description>
+    </item>
+    <item>
+      <title>Voluntariado en residencia de mayores</title>
+      <link>http://localhost:1313/solidaridad/voluntariado-en-residencia/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solidaridad/voluntariado-en-residencia/</guid>
+      <description>Un grupo de estudiantes visita a personas mayores para hacerles compañía y escuchar sus historias.</description>
+    </item>
+  </channel>
+</rss>

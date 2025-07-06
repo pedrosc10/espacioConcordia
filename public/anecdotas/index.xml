@@ -6,6 +6,28 @@
     <description>Recent content in Anecdotas on Espacio de Concordia</description>
     <generator>Hugo</generator>
     <language>es</language>
+    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/anecdotas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abrazos gratis en el metro</title>
+      <link>http://localhost:1313/anecdotas/abrazos-en-el-metro/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/anecdotas/abrazos-en-el-metro/</guid>
+      <description>Un joven sorprende a los pasajeros del metro de Madrid ofreciendo abrazos gratis.</description>
+    </item>
+    <item>
+      <title>La bicicleta solidaria</title>
+      <link>http://localhost:1313/anecdotas/bicicleta-solidaria/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/anecdotas/bicicleta-solidaria/</guid>
+      <description>Un chico deja su bicicleta en el portal con una nota: &amp;lsquo;Úsala quien la necesite&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>La panadería de las sonrisas</title>
+      <link>http://localhost:1313/anecdotas/panaderia-sonrisas/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/anecdotas/panaderia-sonrisas/</guid>
+      <description>Una panadera incluye mensajes positivos en cada bolsa de pan.</description>
+    </item>
   </channel>
 </rss>

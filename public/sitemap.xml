@@ -2,15 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/historias/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/historias/un-nino-salva-un-perro/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anecdotas/abrazos-en-el-metro/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anecdotas/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anecdotas/bicicleta-solidaria/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/historias/cadena-de-favores/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/solidaridad/campana-de-ropa/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/solidaridad/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/solidaridad/apoyo-escolar/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anecdotas/panaderia-sonrisas/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/solidaridad/voluntariado-en-residencia/</loc>
+    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/historias/profesor-inspirador/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/contacto/</loc>
   </url><url>
     <loc>http://localhost:1313/quienes-somos/</loc>
   </url><url>
-    <loc>http://localhost:1313/anecdotas/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

@@ -1,0 +1,43 @@
+/* HEADER CLEAN DESIGN */
+.ec-header {
+  background: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.ec-header-bar {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.7rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ec-logo {
+  font-weight: 800;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #18144c;
+  background: #f6f7fa;
+  padding: 0.6rem 1.6rem;
+  border-radius: 1rem;
+}
+
+.ec-menu-btn, .ec-search-btn {
+  border: none;
+  background: #f6f7fa;
+  padding: 0.5rem 0.9rem;
+  border-radius: 50%;
+  font-size: 1.18rem;
+  cursor: pointer;
+  transition: background 0.18s, transform 0.12s;
+}
+
+.ec-menu-btn:hover, .ec-search-btn:hover {
+  background: #e4e8f1;
+  transform: scale(1.08);
+}

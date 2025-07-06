@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Historias on Espacio de Concordia</title>
+    <link>http://localhost:1313/historias/</link>
+    <description>Recent content in Historias on Espacio de Concordia</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/historias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un niño salva a un perro atrapado en el río</title>
+      <link>http://localhost:1313/historias/un-nino-salva-un-perro/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/historias/un-nino-salva-un-perro/</guid>
+      <description>En un acto heroico, un niño de 10 años rescató a un perro que había caído al agua en su ciudad.</description>
+    </item>
+    <item>
+      <title>Cadena de favores en un vecindario</title>
+      <link>http://localhost:1313/historias/cadena-de-favores/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/historias/cadena-de-favores/</guid>
+      <description>Una pequeña acción solidaria desencadena una ola de ayuda mutua entre los vecinos.</description>
+    </item>
+    <item>
+      <title>El profesor que nunca deja de motivar</title>
+      <link>http://localhost:1313/historias/profesor-inspirador/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/historias/profesor-inspirador/</guid>
+      <description>Juan, un profesor de primaria, crea una iniciativa para celebrar los logros de sus alumnos cada semana.</description>
+    </item>
+  </channel>
+</rss>
